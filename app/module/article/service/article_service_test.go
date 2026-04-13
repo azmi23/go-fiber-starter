@@ -4,10 +4,10 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/bangadam/go-fiber-starter/app/database/schema"
-	"github.com/bangadam/go-fiber-starter/app/module/article/repository"
-	"github.com/bangadam/go-fiber-starter/app/module/article/request"
-	"github.com/bangadam/go-fiber-starter/utils/paginator"
+	"github.com/azmi23/go-fiber-starter/app/database/schema"
+	"github.com/azmi23/go-fiber-starter/app/module/article/repository"
+	"github.com/azmi23/go-fiber-starter/app/module/article/request"
+	"github.com/azmi23/go-fiber-starter/utils/paginator"
 	gomock "github.com/golang/mock/gomock"
 	"github.com/stretchr/testify/assert"
 )

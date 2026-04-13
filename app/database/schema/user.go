@@ -1,7 +1,7 @@
 package schema
 
 import (
-	"github.com/bangadam/go-fiber-starter/utils/helpers"
+	"github.com/azmi23/go-fiber-starter/utils/helpers"
 )
 
 type User struct {

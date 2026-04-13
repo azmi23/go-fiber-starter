@@ -3,7 +3,7 @@ package middleware
 import (
 	"time"
 
-	"github.com/bangadam/go-fiber-starter/utils/config"
+	"github.com/azmi23/go-fiber-starter/utils/config"
 	"github.com/gofiber/fiber/v2"
 	jwtware "github.com/gofiber/jwt/v2"
 	"github.com/golang-jwt/jwt/v4"

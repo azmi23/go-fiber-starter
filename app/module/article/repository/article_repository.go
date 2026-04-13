@@ -1,10 +1,10 @@
 package repository
 
 import (
-	"github.com/bangadam/go-fiber-starter/app/database/schema"
-	"github.com/bangadam/go-fiber-starter/app/module/article/request"
-	"github.com/bangadam/go-fiber-starter/internal/bootstrap/database"
-	"github.com/bangadam/go-fiber-starter/utils/paginator"
+	"github.com/azmi23/go-fiber-starter/app/database/schema"
+	"github.com/azmi23/go-fiber-starter/app/module/article/request"
+	"github.com/azmi23/go-fiber-starter/internal/bootstrap/database"
+	"github.com/azmi23/go-fiber-starter/utils/paginator"
 )
 
 type articleRepository struct {

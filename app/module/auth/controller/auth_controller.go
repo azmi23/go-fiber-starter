@@ -1,9 +1,9 @@
 package controller
 
 import (
-	"github.com/bangadam/go-fiber-starter/app/module/auth/request"
-	"github.com/bangadam/go-fiber-starter/app/module/auth/service"
-	"github.com/bangadam/go-fiber-starter/utils/response"
+	"github.com/azmi23/go-fiber-starter/app/module/auth/request"
+	"github.com/azmi23/go-fiber-starter/app/module/auth/service"
+	"github.com/azmi23/go-fiber-starter/utils/response"
 	"github.com/gofiber/fiber/v2"
 )
 

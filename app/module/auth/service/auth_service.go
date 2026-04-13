@@ -3,11 +3,11 @@ package service
 import (
 	"errors"
 
-	"github.com/bangadam/go-fiber-starter/app/database/schema"
-	"github.com/bangadam/go-fiber-starter/app/middleware"
-	"github.com/bangadam/go-fiber-starter/app/module/auth/request"
-	"github.com/bangadam/go-fiber-starter/app/module/auth/response"
-	user_repo "github.com/bangadam/go-fiber-starter/app/module/user/repository"
+	"github.com/azmi23/go-fiber-starter/app/database/schema"
+	"github.com/azmi23/go-fiber-starter/app/middleware"
+	"github.com/azmi23/go-fiber-starter/app/module/auth/request"
+	"github.com/azmi23/go-fiber-starter/app/module/auth/response"
+	user_repo "github.com/azmi23/go-fiber-starter/app/module/user/repository"
 )
 
 // AuthService

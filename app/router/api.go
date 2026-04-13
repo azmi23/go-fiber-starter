@@ -1,9 +1,9 @@
 package router
 
 import (
-	"github.com/bangadam/go-fiber-starter/app/module/article"
-	"github.com/bangadam/go-fiber-starter/app/module/auth"
-	"github.com/bangadam/go-fiber-starter/utils/config"
+	"github.com/azmi23/go-fiber-starter/app/module/article"
+	"github.com/azmi23/go-fiber-starter/app/module/auth"
+	"github.com/azmi23/go-fiber-starter/utils/config"
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/swagger"
 )

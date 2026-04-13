@@ -1,6 +1,6 @@
 package controller
 
-import "github.com/bangadam/go-fiber-starter/app/module/auth/service"
+import "github.com/azmi23/go-fiber-starter/app/module/auth/service"
 
 type Controller struct {
 	Auth AuthController

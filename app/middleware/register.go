@@ -4,8 +4,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/bangadam/go-fiber-starter/utils"
-	"github.com/bangadam/go-fiber-starter/utils/config"
+	"github.com/azmi23/go-fiber-starter/utils"
+	"github.com/azmi23/go-fiber-starter/utils/config"
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/fiber/v2/middleware/compress"
 	"github.com/gofiber/fiber/v2/middleware/filesystem"

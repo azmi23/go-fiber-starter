@@ -3,13 +3,13 @@ package main
 import (
 	"go.uber.org/fx"
 
-	"github.com/bangadam/go-fiber-starter/app/middleware"
-	"github.com/bangadam/go-fiber-starter/app/module/article"
-	"github.com/bangadam/go-fiber-starter/app/module/auth"
-	"github.com/bangadam/go-fiber-starter/app/router"
-	"github.com/bangadam/go-fiber-starter/internal/bootstrap"
-	"github.com/bangadam/go-fiber-starter/internal/bootstrap/database"
-	"github.com/bangadam/go-fiber-starter/utils/config"
+	"github.com/azmi23/go-fiber-starter/app/middleware"
+	"github.com/azmi23/go-fiber-starter/app/module/article"
+	"github.com/azmi23/go-fiber-starter/app/module/auth"
+	"github.com/azmi23/go-fiber-starter/app/router"
+	"github.com/azmi23/go-fiber-starter/internal/bootstrap"
+	"github.com/azmi23/go-fiber-starter/internal/bootstrap/database"
+	"github.com/azmi23/go-fiber-starter/utils/config"
 	fxzerolog "github.com/efectn/fx-zerolog"
 	_ "go.uber.org/automaxprocs"
 )

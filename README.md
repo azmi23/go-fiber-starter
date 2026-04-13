@@ -39,7 +39,7 @@
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/bangadam" target="_blank">Author</a>
+  <a href="https://github.com/azmi23" target="_blank">Author</a>
 </p>
 
 <br>
@@ -81,7 +81,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com), [
 
 ```bash
 # Clone this project
-$ git clone https://github.com/bangadam/go-fiber-starter
+$ git clone https://github.com/azmi23/go-fiber-starter
 
 # Access
 $ cd go-fiber-starter
@@ -99,7 +99,7 @@ $ go run cmd/example/main.go
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE) file.
 
-Made with :heart: by <a href="https://github.com/bangadam" target="_blank">bangadam.dev</a>
+Made with :heart: by <a href="https://github.com/azmi23" target="_blank">bangadam.dev</a>
 
 &#xa0;
 

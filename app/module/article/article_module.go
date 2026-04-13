@@ -1,9 +1,9 @@
 package article
 
 import (
-	"github.com/bangadam/go-fiber-starter/app/module/article/controller"
-	"github.com/bangadam/go-fiber-starter/app/module/article/repository"
-	"github.com/bangadam/go-fiber-starter/app/module/article/service"
+	"github.com/azmi23/go-fiber-starter/app/module/article/controller"
+	"github.com/azmi23/go-fiber-starter/app/module/article/repository"
+	"github.com/azmi23/go-fiber-starter/app/module/article/service"
 	"github.com/gofiber/fiber/v2"
 	"go.uber.org/fx"
 )
